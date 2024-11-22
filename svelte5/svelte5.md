@@ -1,9 +1,7 @@
 # SVELTE 5
 
-```
-npx sv create
-```
+## Create new project
 
 ```
-npm run dev
+npx sv create
 ```
